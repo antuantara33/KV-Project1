@@ -253,4 +253,73 @@ nav .menu{
     font-weight: 400;
     color: #627382;
     margin-bottom: 40px;
+    
+}
+/* knoeledge section end */
+/* readty start */
+.ready1{
+
+   text-align: center;
+   padding:80px 0 ;
+   background-color: #F7F6F2;
+}
+.ready1 h2{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+.ready1 p{
+    font-size: 16px;
+    font-weight: 500;
+    color: #627382;
+    padding: 0 380px;
+    margin-bottom: 24px;
+}
+.ready1 a{
+    padding:17px 16px;
+    background-color: #469165;
+    color: #FFFFFF;
+    display: inline-flex;
+    gap: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    margin-bottom: 16px;
+}
+.ready2{
+    display: flex;
+  
+}
+
+#footer{
+    margin-top: 120px;
+    background-color: #001931;
+}
+.footer1{
+    display: flex;
+    justify-content: space-between;
+    padding: 125px 30px 125px 0px;
+    border-bottom: 1px solid #E5E7EB;
+}
+.foot h3{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom:20px ;
+}
+.icon{
+    display: flex;
+    gap: 6px;
+    color: #FFFFFF;
+}
+#cp{
+    background-color: #001931;
+}
+.copy{
+   text-align: center;
+   color:#FFFFFF;
+   padding: 30px 0;
+   
 }
