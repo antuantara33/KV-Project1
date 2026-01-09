@@ -27,11 +27,13 @@ a{
     padding: 16.5px 16px;
     border-radius: 5px;
      border:1px solid #FFFFFF;
-     color: #FFFFFF;
+    color: #FFFFFF;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     -ms-border-radius: 5px;
     -o-border-radius: 5px;
+    font-size: 16px;
+    font-weight: 600;
 }
 .btn-com:hover{
     background-color: #469165;
@@ -81,7 +83,7 @@ nav .menu{
     border: none;
     font-size: 16px;
     color: #FFFFFF;
-    font-weight: 400;
+    font-weight: 600;
     background-color:#469165;
     border-radius: 5px;
     -webkit-border-radius: 5px;
@@ -143,6 +145,7 @@ nav .menu{
     font-size: 18px;
     font-weight: 400;
     color: #FFFFFF;
+    line-height: 24px;
 
 
 }
@@ -162,11 +165,13 @@ nav .menu{
 .note h2{
     font-size: 48px;
     font-weight: bold;
+    margin-bottom: 16px;
 }
 .note p{
     font-size: 16px;
     font-weight: 400;
     color: #627382;
+    line-height: 20px;
 }
 .card-main{
     display: flex;
@@ -208,6 +213,7 @@ nav .menu{
     font-size: 16px;
     font-weight: 400;
     color: #627382;
+    line-height: 20px;
 }
 /* card end */
 /* knowledge */
@@ -226,7 +232,7 @@ nav .menu{
 }
 .one h5{
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 500;
 
 }
 .know1{
@@ -279,6 +285,7 @@ nav .menu{
     color: #627382;
     padding: 0 380px;
     margin-bottom: 24px;
+    line-height: 24px;
 }
 .ready1 a{
     padding:17px 16px;
