@@ -45,6 +45,10 @@ a{
 
 header{
     background-color: #FFFFFF;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
 }
 .log0 img{
     height: 60px;
