@@ -36,11 +36,11 @@ a{
 .btn-com:hover{
     background-color: #469165;
     color: #FFFFFF;
-    transition: all 2s;
-    -webkit-transition: all 2s;
-    -moz-transition: all 2s;
-    -ms-transition: all 2s;
-    -o-transition: all 2s;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
 }
 
 header{
@@ -205,3 +205,52 @@ nav .menu{
     color: #627382;
 }
 /* card end */
+/* knowledge */
+#knowledge-main{
+    margin: 120px 0;
+}
+.knowledge{
+    display: flex;
+    justify-content: space-between;
+     gap: 60px;
+}
+.one{
+    display: flex;
+    gap: 7px;
+    margin-top: 16px;
+}
+.one h5{
+    font-size: 16px;
+    font-weight: 400;
+
+}
+.know1{
+    width: 40%;
+   
+    
+}
+.know1 img{
+    width: 100%;
+    height: 100%;
+  
+}
+.know2{
+    margin-top: 118px;
+   width: 60%;
+   padding-right: 295px;
+  
+}
+.know2 h2{
+    margin-top: 16px;
+     font-size: 48px;
+    font-weight: bold;
+    
+
+}
+.know2 p{
+       margin-top: 16px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #627382;
+    margin-bottom: 40px;
+}
