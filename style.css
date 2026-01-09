@@ -148,3 +148,60 @@ nav .menu{
     margin: 0 auto;
     gap: 16px;
 }
+/* card part */
+.note{
+    padding: 80px 0 36px 0;
+    text-align: center;
+
+}
+.note h2{
+    font-size: 48px;
+    font-weight: bold;
+}
+.note p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #627382;
+}
+.card-main{
+    display: flex;
+    text-align: center;
+    gap: 20px;
+    
+}
+.card-div{
+    height: 50px;
+    width: 50px;
+    margin: 0 auto;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    background-color: #F95555;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.card{
+    background-color: #FFFFFF;
+    padding: 70px 24px;
+}
+.card-div img{
+    width: 24px;
+    height: 24px;
+}
+.card h3{
+    margin-top: 16px;
+    font-size: 24px;
+    font-weight: 700;
+}
+.card p{
+    margin-top: 16px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #627382;
+}
+/* card end */
